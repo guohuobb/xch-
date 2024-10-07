@@ -5,7 +5,7 @@ const pageConfig = {
   links: [
     { link: 'https://boke.xccde.nyc.mn/wordpress/', label: 'xch科技' },
     { link: 'https://boke.xccde.nyc.mn/wordpress/', label: 'Blog' },
-    { link: 'https://ttys.xccdd.ggff.net', label: 'Email Me', ttys影视 },
+    { link: 'https://boke.xccde.nyc.mn/wordpress/', label: 'Email Me', xch科技 },
   ],
 }
 
