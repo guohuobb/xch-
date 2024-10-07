@@ -5,7 +5,8 @@ const pageConfig = {
   links: [
     { link: 'https://boke.xccde.nyc.mn/wordpress/', label: 'xch科技' },
     { link: 'https://boke.xccde.nyc.mn/wordpress/', label: 'Blog' },
-    { link: 'https://boke.xccde.nyc.mn/wordpress/', label: 'Email Me', xch科技 },
+    { link: 'xch666555@gmail.com', label: 'Email Me', highlight: true },
+  ],
   ],
 }
 
